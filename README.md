@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kimvais&hide_border=true&show_icons=true&theme=dark">
 
-[How to contact me](https://kimvai.is)
+[How to contact me](https://kimva.is)
 <!--
 **kimvais/kimvais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
